@@ -21,7 +21,6 @@ body{
 
 #social a{
 	color: white;
-	transition: 1s;
 }
 
 #social i{
@@ -47,6 +46,7 @@ body{
 
 #social a:hover{
 	color: #2C3A47;
+	transition: 1s;
 }
 
 #sidebar{
@@ -91,7 +91,6 @@ label #menu{
 	color: white;
 	height: 60px;
 	width: 60px;
-	transition: 2s;
 	align-items: center;
 	justify-content: center;
 }
@@ -122,10 +121,10 @@ label #menu{
 
 #footer a{
 	color: white;
-	transition: 1s;
 }
 
 #footer a:hover{
+	transition: 1s;
 	color: #2C3A47;
 }
 
@@ -155,7 +154,6 @@ label #menu{
 
 #nav a{
 	color: white;
-	transition: 1s;
 }
 
 #nav i{
@@ -180,12 +178,11 @@ label #menu{
 }
 
 .navopt{
-	transition: 1s;
 	height: 50px;
+	color: white;
 }
 
 .navopt:hover{
-	color: #2C3A47;
 	background-color: rgba(116, 125, 140,0.7);
 	cursor: pointer;
 }
